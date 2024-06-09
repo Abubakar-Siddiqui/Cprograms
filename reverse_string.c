@@ -26,4 +26,6 @@ int main()
 
 	}
 	printf("This is reversed value: %s", temp);
+
+ return 0;
 }
